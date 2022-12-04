@@ -1,15 +1,17 @@
-LAB - 18 Cryptography
+# LAB - 18 Cryptography
 
-Project: Caesar Cipher
+Version 1.0 - November 3rd, 2022 - created initial project, added tests, began creation of function, updated README.md
 
-Author: Natalija Germek Clarke
+## Project: Caesar Cipher
 
-Links and Resources
+## Author: Natalija Germek Clarke
+
+## Links and Resources
 
 back-end server url (when applicable)
 front-end application (when applicable)
 
-Setup
+## Setup
 .env requirements (where applicable)
 i.e.
 If you do not already have it installed, you will need to install PyTest with the command:
@@ -24,10 +26,15 @@ How to initialize/run your application (where applicable)
 e.g. python main.py
 How to use your library (where applicable)
 
-Tests
+## Tests
 
 How do you run tests?
-To run your tests, you would run script pytest.
+To run your tests, you would run the script pytest.
 
 Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+Describe any tests that you did not complete, skipped, etc.
+All tests have been skipped since all are failing. Will troubleshoot to pass and resubmit.
+
+Resources:
+[Cryptography with Python - Caesar Cipher](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.htm)
+Used for reference code, yet is not working, will troubleshoot.
