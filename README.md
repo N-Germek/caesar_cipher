@@ -9,8 +9,9 @@ Version 2.0 - December 5th, 2022 - completed encrypt, decrypt and crack function
 
 ## Links and Resources
 
-back-end server url (when applicable)
-front-end application (when applicable)
+[Cryptography with Python - Caesar Cipher](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.htm)
+[What is the Caesar cipher?](https://justcryptography.com/what-is-the-caesar-cipher/)
+Used for reference code and to gather more information about the Caesar Cipher.
 
 ## Setup
 .env requirements (where applicable)
@@ -31,10 +32,5 @@ How do you run tests?
 To run your tests, you would run the script pytest.
 
 Any tests of note?
-Describe any tests that you did not complete, skipped, etc.
-All tests have been skipped since all are failing. Will troubleshoot to pass and resubmit.
 
-Resources:
-[Cryptography with Python - Caesar Cipher](https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.htm)
-[What is the Caesar cipher?](https://justcryptography.com/what-is-the-caesar-cipher/)
-Used for reference code, yet is not working, will troubleshoot.
+All tests are now passing.
