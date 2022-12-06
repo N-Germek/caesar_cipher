@@ -1,6 +1,7 @@
 # LAB - 18 Cryptography
 
-Version 1.0 - November 3rd, 2022 - created initial project, added tests, began creation of function, updated README.md
+Version 1.0 - December 3rd, 2022 - created initial project, added tests, began creation of function, updated README.md
+Version 2.0 - December 5th, 2022 - completed encrypt, decrypt and crack functions. Passed all tests and updated README.md
 
 ## Project: Caesar Cipher
 
@@ -20,11 +21,9 @@ If you do not already have it installed, you will need to install PyTest with th
 pip install pytest
 ```
 
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
+How to initialize/run your application (where applicable)?
+In command line, type python3 caesar/cipher.py.
+
 
 ## Tests
 
